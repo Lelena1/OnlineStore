@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments :: head('Мои заказы')"></head>
+<body>
+<div th:replace="fragments :: nav"></div>
+<main>
+    <h1>Мои заказы</h1>
+
+    <div class="empty-state" th:if="${#lists.isEmpty(orders)}">
+        <p>У вас пока нет заказов.</p>
+        <a class="btn" th:href="@{/catalog}">Перейти в каталог</a>
+    </div>
+
+    <table th:unless="${#lists.isEmpty(orders)}">
+        <thead>
+        <tr>
+            <th>№ заказа</th>
+            <th>Дата</th>
+            <th>Сумма</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="order : ${orders}">
+            <td th:text="${order.id}">1</td>
+            <td th:text="${#temporals.format(order.orderDate, 'dd.MM.yyyy HH:mm')}">дата</td>
+            <td th:text="${order.total} + ' ₽'">0 ₽</td>
+            <td><a th:href="@{/orders/{id}/confirmation(id=${order.id})}">Подробнее</a></td>
+        </tr>
+        </tbody>
+    </table>
+</main>
+</body>
+</html>

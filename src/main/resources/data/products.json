@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Classic Wireless Mouse",
+    "description": "A sleek wireless mouse designed for smooth, precise cursor control on any desk.",
+    "price": 13.67,
+    "category": "Wireless Mouse",
+    "stock": 40,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wireless_mouse.jpg"
+  },
+  {
+    "name": "Compact Wireless Mouse",
+    "description": "A premium wireless mouse designed for smooth, precise cursor control on any desk.",
+    "price": 19.02,
+    "category": "Wireless Mouse",
+    "stock": 99,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wireless_mouse.jpg"
+  },
+  {
+    "name": "Ergonomic Wireless Mouse",
+    "description": "A sleek wireless mouse designed for smooth, precise cursor control on any desk.",
+    "price": 31.26,
+    "category": "Wireless Mouse",
+    "stock": 74,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wireless_mouse.jpg"
+  },
+  {
+    "name": "Silent Click Wireless Mouse",
+    "description": "A sleek wireless mouse designed for smooth, precise cursor control on any desk.",
+    "price": 28.93,
+    "category": "Wireless Mouse",
+    "stock": 9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wireless_mouse.jpg"
+  },
+  {
+    "name": "Gaming Wireless Mouse",
+    "description": "A reliable wireless mouse designed for smooth, precise cursor control on any desk.",
+    "price": 15.52,
+    "category": "Wireless Mouse",
+    "stock": 34,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wireless_mouse.jpg"
+  },
+  {
+    "name": "Compact Mechanical Keyboard",
+    "description": "A sturdy mechanical keyboard with tactile switches for satisfying, accurate typing.",
+    "price": 94.17,
+    "category": "Mechanical Keyboard",
+    "stock": 76,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg"
+  },
+  {
+    "name": "Full-Size Mechanical Keyboard",
+    "description": "A premium mechanical keyboard with tactile switches for satisfying, accurate typing.",
+    "price": 104.43,
+    "category": "Mechanical Keyboard",
+    "stock": 94,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg"
+  },
+  {
+    "name": "Wireless Mechanical Keyboard",
+    "description": "A sturdy mechanical keyboard with tactile switches for satisfying, accurate typing.",
+    "price": 77.75,
+    "category": "Mechanical Keyboard",
+    "stock": 62,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg"
+  },
+  {
+    "name": "RGB Mechanical Keyboard",
+    "description": "A lightweight mechanical keyboard with tactile switches for satisfying, accurate typing.",
+    "price": 65.03,
+    "category": "Mechanical Keyboard",
+    "stock": 5,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg"
+  },
+  {
+    "name": "Tenkeyless Mechanical Keyboard",
+    "description": "A durable mechanical keyboard with tactile switches for satisfying, accurate typing.",
+    "price": 102.82,
+    "category": "Mechanical Keyboard",
+    "stock": 48,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Keychron_K4_mechanical_keyboard.jpg"
+  },
+  {
+    "name": "Over-Ear Bluetooth Headphones",
+    "description": "A everyday pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 44.42,
+    "category": "Bluetooth Headphones",
+    "stock": 48,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "On-Ear Bluetooth Headphones",
+    "description": "A sleek pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 36.58,
+    "category": "Bluetooth Headphones",
+    "stock": 17,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "Noise-Cancelling Bluetooth Headphones",
+    "description": "A compact pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 130.93,
+    "category": "Bluetooth Headphones",
+    "stock": 82,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "Sport Bluetooth Headphones",
+    "description": "A everyday pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 125.88,
+    "category": "Bluetooth Headphones",
+    "stock": 98,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "Foldable Bluetooth Headphones",
+    "description": "A modern pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 92.02,
+    "category": "Bluetooth Headphones",
+    "stock": 53,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "Studio Bluetooth Headphones",
+    "description": "A sleek pair of Bluetooth headphones offering rich sound and all-day comfort.",
+    "price": 94.0,
+    "category": "Bluetooth Headphones",
+    "stock": 85,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tribit_XFree_Tune_Bluetooth_Headphones.jpg"
+  },
+  {
+    "name": "Drip Coffee Maker",
+    "description": "A lightweight coffee maker that brews a fresh, hot cup in minutes every morning.",
+    "price": 91.97,
+    "category": "Coffee Maker",
+    "stock": 51,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keurig_Coffee_Machine.jpg"
+  },
+  {
+    "name": "Single-Serve Coffee Maker",
+    "description": "A lightweight coffee maker that brews a fresh, hot cup in minutes every morning.",
+    "price": 43.45,
+    "category": "Coffee Maker",
+    "stock": 13,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keurig_Coffee_Machine.jpg"
+  },
+  {
+    "name": "Programmable Coffee Maker",
+    "description": "A reliable coffee maker that brews a fresh, hot cup in minutes every morning.",
+    "price": 76.28,
+    "category": "Coffee Maker",
+    "stock": 42,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keurig_Coffee_Machine.jpg"
+  },
+  {
+    "name": "Compact Coffee Maker",
+    "description": "A sleek coffee maker that brews a fresh, hot cup in minutes every morning.",
+    "price": 89.86,
+    "category": "Coffee Maker",
+    "stock": 17,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keurig_Coffee_Machine.jpg"
+  },
+  {
+    "name": "Stainless Steel Coffee Maker",
+    "description": "A versatile coffee maker that brews a fresh, hot cup in minutes every morning.",
+    "price": 49.45,
+    "category": "Coffee Maker",
+    "stock": 86,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Keurig_Coffee_Machine.jpg"
+  },
+  {
+    "name": "Everyday Backpack",
+    "description": "A compact backpack with durable fabric and organized compartments for daily use.",
+    "price": 35.56,
+    "category": "Backpack",
+    "stock": 50,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "Travel Backpack",
+    "description": "A premium backpack with durable fabric and organized compartments for daily use.",
+    "price": 68.55,
+    "category": "Backpack",
+    "stock": 94,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "Laptop Backpack",
+    "description": "A sleek backpack with durable fabric and organized compartments for daily use.",
+    "price": 64.58,
+    "category": "Backpack",
+    "stock": 26,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "Hiking Backpack",
+    "description": "A sturdy backpack with durable fabric and organized compartments for daily use.",
+    "price": 72.38,
+    "category": "Backpack",
+    "stock": 25,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "Commuter Backpack",
+    "description": "A modern backpack with durable fabric and organized compartments for daily use.",
+    "price": 49.65,
+    "category": "Backpack",
+    "stock": 86,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "Weatherproof Backpack",
+    "description": "A sturdy backpack with durable fabric and organized compartments for daily use.",
+    "price": 39.26,
+    "category": "Backpack",
+    "stock": 46,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jansport_Backpack_3_2019-03-07.jpg"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "A reliable desk lamp that provides bright, even lighting for reading or working.",
+    "price": 25.3,
+    "category": "Desk Lamp",
+    "stock": 9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Desk_lamp.jpg"
+  },
+  {
+    "name": "Adjustable Desk Lamp",
+    "description": "A compact desk lamp that provides bright, even lighting for reading or working.",
+    "price": 33.04,
+    "category": "Desk Lamp",
+    "stock": 13,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Desk_lamp.jpg"
+  },
+  {
+    "name": "Dimmable Desk Lamp",
+    "description": "A premium desk lamp that provides bright, even lighting for reading or working.",
+    "price": 56.08,
+    "category": "Desk Lamp",
+    "stock": 77,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Desk_lamp.jpg"
+  },
+  {
+    "name": "Clip-On Desk Lamp",
+    "description": "A compact desk lamp that provides bright, even lighting for reading or working.",
+    "price": 24.56,
+    "category": "Desk Lamp",
+    "stock": 68,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Desk_lamp.jpg"
+  },
+  {
+    "name": "Minimalist Desk Lamp",
+    "description": "A versatile desk lamp that provides bright, even lighting for reading or working.",
+    "price": 54.8,
+    "category": "Desk Lamp",
+    "stock": 87,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Desk_lamp.jpg"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "description": "A modern office chair built for lasting comfort during long work sessions.",
+    "price": 119.99,
+    "category": "Office Chair",
+    "stock": 22,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leather_executive_chair.jpg"
+  },
+  {
+    "name": "Executive Office Chair",
+    "description": "A premium office chair built for lasting comfort during long work sessions.",
+    "price": 246.44,
+    "category": "Office Chair",
+    "stock": 73,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leather_executive_chair.jpg"
+  },
+  {
+    "name": "Mesh-Back Office Chair",
+    "description": "A everyday office chair built for lasting comfort during long work sessions.",
+    "price": 246.86,
+    "category": "Office Chair",
+    "stock": 59,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leather_executive_chair.jpg"
+  },
+  {
+    "name": "Swivel Office Chair",
+    "description": "A lightweight office chair built for lasting comfort during long work sessions.",
+    "price": 173.86,
+    "category": "Office Chair",
+    "stock": 33,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leather_executive_chair.jpg"
+  },
+  {
+    "name": "Insulated Water Bottle",
+    "description": "A durable water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 22.73,
+    "category": "Water Bottle",
+    "stock": 16,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "description": "A reliable water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 31.52,
+    "category": "Water Bottle",
+    "stock": 24,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Sport Water Bottle",
+    "description": "A durable water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 29.79,
+    "category": "Water Bottle",
+    "stock": 59,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Wide-Mouth Water Bottle",
+    "description": "A lightweight water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 11.58,
+    "category": "Water Bottle",
+    "stock": 53,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Compact Water Bottle",
+    "description": "A lightweight water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 34.89,
+    "category": "Water Bottle",
+    "stock": 72,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Vacuum-Sealed Water Bottle",
+    "description": "A everyday water bottle that keeps drinks cold or hot for hours on the go.",
+    "price": 34.27,
+    "category": "Water Bottle",
+    "stock": 6,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg"
+  },
+  {
+    "name": "Lightweight Running Shoes",
+    "description": "A sleek pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 124.98,
+    "category": "Running Shoes",
+    "stock": 73,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Cushioned Running Shoes",
+    "description": "A everyday pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 134.54,
+    "category": "Running Shoes",
+    "stock": 48,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Trail Running Shoes",
+    "description": "A sleek pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 82.28,
+    "category": "Running Shoes",
+    "stock": 25,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Road Running Shoes",
+    "description": "A modern pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 50.35,
+    "category": "Running Shoes",
+    "stock": 97,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Breathable Running Shoes",
+    "description": "A everyday pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 156.9,
+    "category": "Running Shoes",
+    "stock": 27,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Stability Running Shoes",
+    "description": "A sturdy pair of running shoes engineered for a smooth, supportive stride.",
+    "price": 150.38,
+    "category": "Running Shoes",
+    "stock": 85,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg"
+  },
+  {
+    "name": "Non-Slip Yoga Mat",
+    "description": "A everyday yoga mat with a cushioned, grippy surface for any practice.",
+    "price": 44.45,
+    "category": "Yoga Mat",
+    "stock": 69,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg"
+  },
+  {
+    "name": "Extra-Thick Yoga Mat",
+    "description": "A lightweight yoga mat with a cushioned, grippy surface for any practice.",
+    "price": 21.95,
+    "category": "Yoga Mat",
+    "stock": 52,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg"
+  },
+  {
+    "name": "Travel Yoga Mat",
+    "description": "A durable yoga mat with a cushioned, grippy surface for any practice.",
+    "price": 33.87,
+    "category": "Yoga Mat",
+    "stock": 72,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg"
+  },
+  {
+    "name": "Eco-Friendly Yoga Mat",
+    "description": "A reliable yoga mat with a cushioned, grippy surface for any practice.",
+    "price": 35.95,
+    "category": "Yoga Mat",
+    "stock": 67,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg"
+  },
+  {
+    "name": "Reversible Yoga Mat",
+    "description": "A reliable yoga mat with a cushioned, grippy surface for any practice.",
+    "price": 18.91,
+    "category": "Yoga Mat",
+    "stock": 51,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg"
+  },
+  {
+    "name": "Countertop Blender",
+    "description": "A everyday blender that powers through fruits, ice, and greens with ease.",
+    "price": 47.74,
+    "category": "Blender",
+    "stock": 35,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Blender.JPG"
+  },
+  {
+    "name": "Personal Blender",
+    "description": "A lightweight blender that powers through fruits, ice, and greens with ease.",
+    "price": 114.95,
+    "category": "Blender",
+    "stock": 15,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Blender.JPG"
+  },
+  {
+    "name": "High-Speed Blender",
+    "description": "A modern blender that powers through fruits, ice, and greens with ease.",
+    "price": 102.51,
+    "category": "Blender",
+    "stock": 73,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Blender.JPG"
+  },
+  {
+    "name": "Compact Blender",
+    "description": "A durable blender that powers through fruits, ice, and greens with ease.",
+    "price": 37.19,
+    "category": "Blender",
+    "stock": 65,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Blender.JPG"
+  },
+  {
+    "name": "Smoothie Blender",
+    "description": "A sturdy blender that powers through fruits, ice, and greens with ease.",
+    "price": 40.68,
+    "category": "Blender",
+    "stock": 72,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Blender.JPG"
+  },
+  {
+    "name": "2-Slice Toaster",
+    "description": "A lightweight toaster that delivers evenly browned toast at the press of a lever.",
+    "price": 33.65,
+    "category": "Toaster",
+    "stock": 32,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toaster.jpg"
+  },
+  {
+    "name": "4-Slice Toaster",
+    "description": "A sturdy toaster that delivers evenly browned toast at the press of a lever.",
+    "price": 45.93,
+    "category": "Toaster",
+    "stock": 93,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toaster.jpg"
+  },
+  {
+    "name": "Stainless Steel Toaster",
+    "description": "A premium toaster that delivers evenly browned toast at the press of a lever.",
+    "price": 44.37,
+    "category": "Toaster",
+    "stock": 56,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toaster.jpg"
+  },
+  {
+    "name": "Wide-Slot Toaster",
+    "description": "A compact toaster that delivers evenly browned toast at the press of a lever.",
+    "price": 34.2,
+    "category": "Toaster",
+    "stock": 71,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Toaster.jpg"
+  },
+  {
+    "name": "Classic Strategy Board Game",
+    "description": "A modern board game that brings friends and family together for hours of fun.",
+    "price": 16.86,
+    "category": "Board Game",
+    "stock": 33,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Family Board Game",
+    "description": "A sleek board game that brings friends and family together for hours of fun.",
+    "price": 23.81,
+    "category": "Board Game",
+    "stock": 80,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Party Board Game",
+    "description": "A sturdy board game that brings friends and family together for hours of fun.",
+    "price": 20.35,
+    "category": "Board Game",
+    "stock": 33,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Two-Player Board Game",
+    "description": "A reliable board game that brings friends and family together for hours of fun.",
+    "price": 15.26,
+    "category": "Board Game",
+    "stock": 85,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Wooden Board Game Set",
+    "description": "A reliable board game that brings friends and family together for hours of fun.",
+    "price": 20.32,
+    "category": "Board Game",
+    "stock": 9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Travel Board Game",
+    "description": "A compact board game that brings friends and family together for hours of fun.",
+    "price": 15.26,
+    "category": "Board Game",
+    "stock": 35,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chess_board_with_chess_set_in_opening_position_2012_PD_03.jpg"
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "A everyday Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 73.51,
+    "category": "Bluetooth Speaker",
+    "stock": 32,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Waterproof Bluetooth Speaker",
+    "description": "A sturdy Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 30.57,
+    "category": "Bluetooth Speaker",
+    "stock": 78,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Mini Bluetooth Speaker",
+    "description": "A lightweight Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 57.8,
+    "category": "Bluetooth Speaker",
+    "stock": 65,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Outdoor Bluetooth Speaker",
+    "description": "A versatile Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 35.22,
+    "category": "Bluetooth Speaker",
+    "stock": 17,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Stereo Bluetooth Speaker",
+    "description": "A versatile Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 48.33,
+    "category": "Bluetooth Speaker",
+    "stock": 57,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Rugged Bluetooth Speaker",
+    "description": "A modern Bluetooth speaker that fills any room or backyard with clear sound.",
+    "price": 89.1,
+    "category": "Bluetooth Speaker",
+    "stock": 11,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bluetooth_Speaker.jpg"
+  },
+  {
+    "name": "Classic Aviator Sunglasses",
+    "description": "A sleek pair of sunglasses offering UV protection with everyday style.",
+    "price": 18.93,
+    "category": "Sunglasses",
+    "stock": 98,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ray-Ban_Aviator_sunglasses.jpg"
+  },
+  {
+    "name": "Polarized Sunglasses",
+    "description": "A compact pair of sunglasses offering UV protection with everyday style.",
+    "price": 67.03,
+    "category": "Sunglasses",
+    "stock": 18,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ray-Ban_Aviator_sunglasses.jpg"
+  },
+  {
+    "name": "Retro Round Sunglasses",
+    "description": "A premium pair of sunglasses offering UV protection with everyday style.",
+    "price": 27.44,
+    "category": "Sunglasses",
+    "stock": 73,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ray-Ban_Aviator_sunglasses.jpg"
+  },
+  {
+    "name": "Sport Sunglasses",
+    "description": "A modern pair of sunglasses offering UV protection with everyday style.",
+    "price": 24.1,
+    "category": "Sunglasses",
+    "stock": 28,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ray-Ban_Aviator_sunglasses.jpg"
+  },
+  {
+    "name": "Oversized Sunglasses",
+    "description": "A everyday pair of sunglasses offering UV protection with everyday style.",
+    "price": 45.06,
+    "category": "Sunglasses",
+    "stock": 14,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ray-Ban_Aviator_sunglasses.jpg"
+  },
+  {
+    "name": "Classic Analog Wristwatch",
+    "description": "A modern wristwatch that pairs reliable timekeeping with a durable build.",
+    "price": 125.03,
+    "category": "Wristwatch",
+    "stock": 75,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Casio_G-Shock_DW-5600E_wristwatch.jpg"
+  },
+  {
+    "name": "Digital Sport Wristwatch",
+    "description": "A sleek wristwatch that pairs reliable timekeeping with a durable build.",
+    "price": 26.57,
+    "category": "Wristwatch",
+    "stock": 74,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Casio_G-Shock_DW-5600E_wristwatch.jpg"
+  },
+  {
+    "name": "Minimalist Wristwatch",
+    "description": "A reliable wristwatch that pairs reliable timekeeping with a durable build.",
+    "price": 145.96,
+    "category": "Wristwatch",
+    "stock": 35,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Casio_G-Shock_DW-5600E_wristwatch.jpg"
+  },
+  {
+    "name": "Chronograph Wristwatch",
+    "description": "A durable wristwatch that pairs reliable timekeeping with a durable build.",
+    "price": 72.82,
+    "category": "Wristwatch",
+    "stock": 66,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Casio_G-Shock_DW-5600E_wristwatch.jpg"
+  },
+  {
+    "name": "Rugged Wristwatch",
+    "description": "A premium wristwatch that pairs reliable timekeeping with a durable build.",
+    "price": 132.39,
+    "category": "Wristwatch",
+    "stock": 12,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Casio_G-Shock_DW-5600E_wristwatch.jpg"
+  },
+  {
+    "name": "Classic Ruled Notebook",
+    "description": "A durable notebook with sturdy pages, perfect for notes, journaling, or sketches.",
+    "price": 13.19,
+    "category": "Notebook",
+    "stock": 54,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blank_Notebook.jpg"
+  },
+  {
+    "name": "Dot Grid Notebook",
+    "description": "A everyday notebook with sturdy pages, perfect for notes, journaling, or sketches.",
+    "price": 23.59,
+    "category": "Notebook",
+    "stock": 63,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blank_Notebook.jpg"
+  },
+  {
+    "name": "Pocket Notebook",
+    "description": "A everyday notebook with sturdy pages, perfect for notes, journaling, or sketches.",
+    "price": 14.03,
+    "category": "Notebook",
+    "stock": 98,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blank_Notebook.jpg"
+  },
+  {
+    "name": "Hardcover Notebook",
+    "description": "A sturdy notebook with sturdy pages, perfect for notes, journaling, or sketches.",
+    "price": 18.57,
+    "category": "Notebook",
+    "stock": 67,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blank_Notebook.jpg"
+  },
+  {
+    "name": "Recycled Paper Notebook",
+    "description": "A durable notebook with sturdy pages, perfect for notes, journaling, or sketches.",
+    "price": 9.6,
+    "category": "Notebook",
+    "stock": 32,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Blank_Notebook.jpg"
+  },
+  {
+    "name": "Classic Denim Jacket",
+    "description": "A reliable denim jacket that layers easily over any casual outfit.",
+    "price": 66.84,
+    "category": "Jacket",
+    "stock": 74,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Lightweight Denim Jacket",
+    "description": "A reliable denim jacket that layers easily over any casual outfit.",
+    "price": 76.13,
+    "category": "Jacket",
+    "stock": 12,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Casual Denim Jacket",
+    "description": "A reliable denim jacket that layers easily over any casual outfit.",
+    "price": 67.12,
+    "category": "Jacket",
+    "stock": 69,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Vintage-Wash Denim Jacket",
+    "description": "A sturdy denim jacket that layers easily over any casual outfit.",
+    "price": 43.65,
+    "category": "Jacket",
+    "stock": 70,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Cropped Denim Jacket",
+    "description": "A sleek denim jacket that layers easily over any casual outfit.",
+    "price": 81.81,
+    "category": "Jacket",
+    "stock": 13,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Oversized Denim Jacket",
+    "description": "A lightweight denim jacket that layers easily over any casual outfit.",
+    "price": 38.73,
+    "category": "Jacket",
+    "stock": 35,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Denim_jacket.jpg"
+  },
+  {
+    "name": "Slim Leather Wallet",
+    "description": "A versatile leather wallet with slots for cards and cash in a slim profile.",
+    "price": 20.38,
+    "category": "Wallet",
+    "stock": 77,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aarong_leather_wallet.jpg"
+  },
+  {
+    "name": "Bifold Leather Wallet",
+    "description": "A premium leather wallet with slots for cards and cash in a slim profile.",
+    "price": 41.04,
+    "category": "Wallet",
+    "stock": 10,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aarong_leather_wallet.jpg"
+  },
+  {
+    "name": "Trifold Leather Wallet",
+    "description": "A lightweight leather wallet with slots for cards and cash in a slim profile.",
+    "price": 18.68,
+    "category": "Wallet",
+    "stock": 89,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aarong_leather_wallet.jpg"
+  },
+  {
+    "name": "Card Holder Wallet",
+    "description": "A lightweight leather wallet with slots for cards and cash in a slim profile.",
+    "price": 40.43,
+    "category": "Wallet",
+    "stock": 45,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aarong_leather_wallet.jpg"
+  },
+  {
+    "name": "Travel Leather Wallet",
+    "description": "A everyday leather wallet with slots for cards and cash in a slim profile.",
+    "price": 24.18,
+    "category": "Wallet",
+    "stock": 96,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aarong_leather_wallet.jpg"
+  }
+]

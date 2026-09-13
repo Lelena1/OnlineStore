@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments :: head('Корзина')"></head>
+<body>
+<div th:replace="fragments :: nav"></div>
+<main>
+    <h1>Корзина</h1>
+
+    <div class="error-banner" th:if="${checkoutError}" th:text="${checkoutError}">Ошибка</div>
+
+    <div class="empty-state" th:if="${#lists.isEmpty(cartItems)}">
+        <p>Корзина пуста.</p>
+        <a class="btn" th:href="@{/catalog}">Перейти в каталог</a>
+    </div>
+
+    <table th:unless="${#lists.isEmpty(cartItems)}">
+        <thead>
+        <tr>
+            <th>Товар</th>
+            <th>Цена</th>
+            <th>Количество</th>
+            <th>Сумма</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="item : ${cartItems}">
+            <td>
+                <img class="cart-thumb" th:src="${item.product.imageUrl}" th:alt="${item.product.name}">
+                <span th:text="${item.product.name}">Название</span>
+            </td>
+            <td th:text="${item.product.price} + ' ₽'">0 ₽</td>
+            <td>
+                <form th:action="@{/cart/update}" method="post" style="display:flex; gap:6px;">
+                    <input type="hidden" name="productId" th:value="${item.product.id}">
+                    <input type="number" name="quantity" th:value="${item.quantity}" min="1" th:max="${item.product.stock}">
+                    <button type="submit">Обновить</button>
+                </form>
+            </td>
+            <td th:text="${item.product.price * item.quantity} + ' ₽'">0 ₽</td>
+            <td>
+                <form th:action="@{/cart/remove}" method="post">
+                    <input type="hidden" name="productId" th:value="${item.product.id}">
+                    <button type="submit" class="danger">Удалить</button>
+                </form>
+            </td>
+        </tr>
+        <tr class="total-row">
+            <td colspan="3">Итого</td>
+            <td th:text="${cartTotal} + ' ₽'">0 ₽</td>
+            <td></td>
+        </tr>
+        </tbody>
+    </table>
+
+    <div class="actions" th:unless="${#lists.isEmpty(cartItems)}">
+        <form th:action="@{/cart/checkout}" method="post">
+            <button type="submit">Оформить заказ</button>
+        </form>
+    </div>
+</main>
+</body>
+</html>

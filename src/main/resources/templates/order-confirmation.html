@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments :: head('Заказ оформлен')"></head>
+<body>
+<div th:replace="fragments :: nav"></div>
+<main>
+    <h1>Спасибо за заказ!</h1>
+    <p>Заказ №<span th:text="${order.id}">1</span> от
+        <span th:text="${#temporals.format(order.orderDate, 'dd.MM.yyyy HH:mm')}">дата</span>
+    </p>
+
+    <table>
+        <thead>
+        <tr>
+            <th>Товар</th>
+            <th>Цена</th>
+            <th>Количество</th>
+            <th>Сумма</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="item : ${order.items}">
+            <td th:text="${item.productName}">Название</td>
+            <td th:text="${item.unitPrice} + ' ₽'">0 ₽</td>
+            <td th:text="${item.quantity}">1</td>
+            <td th:text="${item.lineTotal} + ' ₽'">0 ₽</td>
+        </tr>
+        <tr class="total-row">
+            <td colspan="3">Итого</td>
+            <td th:text="${order.total} + ' ₽'">0 ₽</td>
+        </tr>
+        </tbody>
+    </table>
+
+    <div class="actions">
+        <a class="btn" th:href="@{/catalog}">Вернуться в каталог</a>
+    </div>
+</main>
+</body>
+</html>

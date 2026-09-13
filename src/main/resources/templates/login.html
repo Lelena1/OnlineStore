@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments :: head('Вход')"></head>
+<body>
+<main>
+    <div class="login-box">
+        <h2>Добро пожаловать</h2>
+        <p>Введите имя, чтобы войти в магазин</p>
+        <form th:action="@{/login}" method="post">
+            <input type="text" name="name" placeholder="Ваше имя" required autofocus>
+            <button type="submit" class="btn">Войти</button>
+        </form>
+    </div>
+</main>
+</body>
+</html>

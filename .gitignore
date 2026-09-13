@@ -1,0 +1,16 @@
+target/
+*.class
+
+# Local SQLite database — generated at runtime, not source
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store

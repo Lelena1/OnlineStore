@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head(title)">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title th:text="${title} + ' — Local Shop'">Local Shop</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<nav th:fragment="nav">
+    <a th:href="@{/catalog}">Каталог</a>
+    <a th:href="@{/cart}">Корзина</a>
+    <a th:href="@{/orders}">Мои заказы</a>
+    <span class="spacer"></span>
+    <form th:action="@{/logout}" method="post">
+        <button type="submit" class="link">Выйти</button>
+    </form>
+</nav>
+</body>
+</html>
