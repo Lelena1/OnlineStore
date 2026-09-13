@@ -1,0 +1,16 @@
+# Normalize all text files to LF in the repository, regardless of the
+# developer's OS line-ending settings (avoids the LF/CRLF warnings on Windows).
+* text=auto eol=lf
+
+*.java text
+*.xml text
+*.properties text
+*.html text
+*.css text
+*.json text
+*.md text
+
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
